@@ -18,7 +18,7 @@
         <google.inject>4.0</google.inject>
         <mockito.version>1.10.19</mockito.version>
         <spring.version>4.2.2.RELEASE</spring.version>
-        <jackson.version>2.12.1</jackson.version>
+        <jackson.version>2.12.6.1</jackson.version>
         <morphia.version>1.3.2</morphia.version>
         <apache.commons.version>3.4</apache.commons.version>
     </properties>
